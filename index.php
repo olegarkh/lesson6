@@ -1,9 +1,23 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Олег
- * Date: 08.03.15
- * Time: 13:36
- */
 
-echo 'Hello!';
+require_once __DIR__ . '/settings/autoload.php';
+
+$ctrl = !empty($_GET['ctrl']) ? $_GET['ctrl'] : 'News';
+$act = isset($_GET['act']) ? $_GET['act'] : 'All';
+
+$controllerClassName = $ctrl . 'Controller';
+
+try{
+    $controller = new $controllerClassName;
+
+    $method = 'action'.$act;
+    $controller->$method();
+}
+catch(Exception $e){
+
+    $view = new View;
+    $view->error = $e;
+
+    ModelException::logg($e);
+    $view->display('/../admin/error.php');
+}
