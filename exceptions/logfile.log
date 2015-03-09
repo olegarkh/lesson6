@@ -1,0 +1,21 @@
+2015:03:09 05:31:55 - Запись с указанным идентификатором не найдена ! 
+2015:03:09 05:33:21 - Запись с указанным идентификатором не найдена ! 
+2015:03:09 05:38:22 - Запись с указанным идентификатором не найдена !  - 54 - C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 05:38:25 - Запись с указанным идентификатором не найдена !  - 54 - C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 06:00:39 - SQLSTATE[HY000] [1045] Access denied for user 'root2'@'localhost' (using password: NO) - 26 - C:\OpenServer\domains\php2\lesson6\settings\PDOConfig.php
+2015:03:09 06:02:33 - SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) - 26 - C:\OpenServer\domains\php2\lesson6\settings\PDOConfig.php
+2015:03:09 06:03:24 - SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ���� ���� ����������.  - 26 - C:\OpenServer\domains\php2\lesson6\settings\PDOConfig.php
+2015:03:09 06:13:22 - Не удалось подключиться к БД ! - 17 - C:\OpenServer\domains\php2\lesson6\models\db.php
+2015:03:09 06:13:34 - Не удалось подключиться к БД ! - 17 - C:\OpenServer\domains\php2\lesson6\models\db.php
+2015:03:09 06:13:34 - Не удалось подключиться к БД ! - 17 - C:\OpenServer\domains\php2\lesson6\models\db.php
+2015:03:09 06:20:36 - Не удалось подключиться к БД ! - 17 - C:\OpenServer\domains\php2\lesson6\models\db.php
+2015:03:09 06:20:38 - Не удалось подключиться к БД ! - 17 - C:\OpenServer\domains\php2\lesson6\models\db.php
+2015:03:09 06:26:19 - Запись с указанным идентификатором не найдена !  - 54 - C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 06:26:32 - Запись с указанным идентификатором не найдена !  - 54 - C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 07:28:12 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 07:28:32 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 07:31:04 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 07:31:25 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 19:33:16 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 19:34:03 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
+2015:03:09 19:36:07 - Запись с указанным идентификатором не найдена !  - стр.53 в файле C:\OpenServer\domains\php2\lesson6\classes\AbstractModel.php
